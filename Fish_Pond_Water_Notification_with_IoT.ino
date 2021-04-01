@@ -2,9 +2,9 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "A_CXxT8QY5Nh9esYXErq0P5F9F7jMcf-";
-char ssid[] = "SinyalUhu";
-char pass[] = "jalanarun126";
+char auth[] = "your token";
+char ssid[] = "your wifi SSID";
+char pass[] = "your wifi password";
 
 const int trig = D7;
 const int echo = D8;
